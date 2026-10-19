@@ -54,10 +54,7 @@ Landing-Page/
 Open "index.html" in your browser to view the landing page.
 
 LIVE DEMO
-
-👩‍💻 Author
-
-Your Name
+ https://sakshitambole.github.io/Creative-page
 
 📄 License
 
